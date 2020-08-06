@@ -14,6 +14,9 @@ It also copies the old xml file as a backup. If you want to test it, you can als
 And... you'll need to save your game and close your game to make it work (no need to fully quit FS19).
 
 
+
+Program is based on [.net framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472).
+
 ---
 Happy farming,
 

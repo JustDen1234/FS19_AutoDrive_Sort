@@ -8,10 +8,11 @@ So I created a small console app (C#) that does the sort for me.
 ## Usage
 
 Copy the .exe into your savegame directory. Run it, it will look for the xml file of AutoDrive, and sorts the destinations.
+Next it will open the vehicles.xml file, and change the parking destination of all vehicles to the new sorted destination number.
 
-It also copies the old xml file as a backup. If you want to test it, you can also copy the autodrive xml file in another directory with the exe and try it there.
+It also copies the old xml files as a backup. If you want to test it, you can also copy the autodrive and vehicles xml files to another directory and try it there.
 
-And... you'll need to save your game and close your game to make it work (no need to fully quit FS19).
+Note... you'll need to save your game and close your game to make it work (no need to fully quit FS19).
 
 
 

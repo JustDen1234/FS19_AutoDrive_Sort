@@ -15,7 +15,9 @@ to another directory and run this program in that directory.
 
 Note... you'll need to save your game and close the game to make it work (no need to fully quit FS19).
 
+## Download
 
+[AutoDriveSort](https://github.com/JustDen1234/FS19_AutoDrive_Sort/blob/master/AutoDriveSort.exe?raw=true)
 
 Program is based on [.net framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472).
 

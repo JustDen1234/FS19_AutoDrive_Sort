@@ -1,18 +1,19 @@
 # FS19 AutoDrive Sort
 
-I'm playing FS19 with a PS4 Controller, and like to cycle thru the destinations using the controller, 
-but AutoDrive (now v1.1.0.5-RC5) cylces thru the destination by adding date, not alphabetically.
+If you are playing FS19 with a steering wheel or (as I do) with a PS4 controller, and you like to cycle thru the destinations
+you might noticed that AutoDrive (now v1.1.0.5-RC5) cycles thru the destinations by create date, not alphabetically.
 
-So I created a small console app (C#) that does the sort for me.
+So I created a small console app (C#) that sorts the destinations alphabetically.
 
 ## Usage
 
 Copy the .exe into your savegame directory. Run it, it will look for the xml file of AutoDrive, and sorts the destinations.
-Next it will open the vehicles.xml file, and change the parking destination of all vehicles to the new sorted destination number.
+Next it will open the vehicles.xml file, and change the parking destination of all vehicles (and work tools) to the new sorted destination number.
 
-It also copies the old xml files as a backup. If you want to test it, you can also copy the autodrive and vehicles xml files to another directory and try it there.
+It also copies the old xml files so you'll have a backup. If you want to test it, but not sure how it works, copy the autodrive and vehicles xml files
+to another directory and run this program in that directory.
 
-Note... you'll need to save your game and close your game to make it work (no need to fully quit FS19).
+Note... you'll need to save your game and close the game to make it work (no need to fully quit FS19).
 
 
 

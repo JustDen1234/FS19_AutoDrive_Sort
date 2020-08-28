@@ -1,23 +1,25 @@
 # FS19 AutoDrive Sort
 
-If you are playing FS19 with a steering wheel or (as I do) with a PS4 controller, and you like to cycle thru the destinations
-you might noticed that AutoDrive (now v1.1.0.5-RC5) cycles thru the destinations by create date, not alphabetically.
+If you are playing FS19 and like to cycle thru the destinations with the keyboard, a button on a steering wheel or (as I do) with a PS4 controller, 
+you might noticed that AutoDrive (now v1.1.0.5-RC5) cycles thru the destinations in the order you created them, not alphabetically.
 
-So I created a small console app (C#) that sorts the destinations alphabetically.
+So I created a small program that sorts the destinations alphabetically.
 
 ## Usage
 
-Copy the .exe into your savegame directory. Run it, it will look for the xml file of AutoDrive, and sorts the destinations.
+Just copy the AutoDriveSort.exe into your savegame directory and run it.
+
+First it will look for the AutoDrive xml file (named 'AutoDrive_[mapname]_config.xml'), and sorts the destinations.
 Next it will open the vehicles.xml file, and change the parking destination of all vehicles (and work tools) to the new sorted destination number.
+Also the chosen destinations for every vehicle in the HUD will be set to the new numbers.
 
-It also copies the old xml files so you'll have a backup. If you want to test it, but not sure how it works, copy the autodrive and vehicles xml files
-to another directory and run this program in that directory.
+And... the original xml files will be backed up.
 
-Note... you'll need to save your game and close the game to make it work (no need to fully quit FS19).
+Note... you'll need to save and close your game before sorting (no need to fully quit FS19).
 
 ## Download
 
-[AutoDriveSort](https://github.com/JustDen1234/FS19_AutoDrive_Sort/blob/master/AutoDriveSort.exe?raw=true)
+[Latest version v1.0.5](https://github.com/JustDen1234/FS19_AutoDrive_Sort/releases/download/1.0.5/AutoDriveSort.exe)
 
 Program is based on [.net framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472).
 

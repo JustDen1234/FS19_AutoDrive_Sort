@@ -19,7 +19,7 @@ So I created a small program that sorts the destinations alphabetically. Also ta
    1. If you use folders, it will take the folders into account when sorting.
    1. If you do not use folders, it will just sort all destinations.
 1. Look for the 'vehicles.xml' file.
-1. Create a backup if this file.
+1. Create a backup of this file.
 1. Change the parking destinations of all vehicles and work tools to the new sorted destination number.
 1. Set the chosen destinations for every vehicle in the HUD to the new numbers.
 

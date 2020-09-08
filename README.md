@@ -8,15 +8,15 @@ So I created a small program that sorts the destinations alphabetically. Also ta
 ## Usage
 
 1. Save and close your game (no need to quit FS19).
-1. Copy the AutoDriveSort.exe into your savegame.
+1. Copy the AutoDriveSort.exe into your savegame folder.
 1. Run it.
 
 ## How does it work?
 
-1. It will look for the AutoDrive xml file (named 'AutoDrive_[mapname]_config.xml')
-1. Creates a backup
+1. It will look for the AutoDrive xml file (named 'AutoDrive_[mapname]_config.xml').
+1. Creates a backup.
 1. Looks in the file if you are using folders (if in AD settings you have 'Use folders' set to Yes.
-   1. If you use folders, it will take the folders in account when sorting.
+   1. If you use folders, it will take the folders into account when sorting.
    1. If you do not use folders, it will just sort all destinations.
 1. Look for the 'vehicles.xml' file.
 1. Create a backup if this file.

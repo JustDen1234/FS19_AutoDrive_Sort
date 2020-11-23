@@ -8,7 +8,7 @@ So I created a small program that sorts the destinations alphabetically. Also ta
 ## Usage
 
 1. Save and close your game (no need to quit FS19).
-1. Copy the AutoDriveSort.exe into your savegame folder.
+1. Copy the AutoDriveSort.exe into your savegame folder (mostly: C:\Users\[username]\Documents\My Games\FarmingSimulator2019\savegame[number]\).
 1. Run it.
 
 ## How does it work?

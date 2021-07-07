@@ -1,7 +1,7 @@
 # FS19 AutoDrive Sort
 
 If you are playing FS19 and like to cycle thru the destinations with the keyboard, a button on a steering wheel or (as I do) with a PS4 controller, 
-you might noticed that AutoDrive (now v1.1.0.6) cycles thru the destinations in the order you created them, not alphabetically.
+you might noticed that AutoDrive cycles thru the destinations in the order you created them, not alphabetically.
 
 So I created a small program that sorts the destinations alphabetically. Also taking the folders in account if you use folders.
 
@@ -25,9 +25,7 @@ So I created a small program that sorts the destinations alphabetically. Also ta
 
 ## Download
 
-[Latest version v1.1.0](https://github.com/JustDen1234/FS19_AutoDrive_Sort/releases/download/1.1.0/AutoDriveSort.exe)
-
-[Version for AutoDrive v1.1.0.5-RC5 (and previous)](https://github.com/JustDen1234/FS19_AutoDrive_Sort/releases/download/1.0.6/AutoDriveSort.exe)
+[Latest version v1.2.0](https://github.com/JustDen1234/FS19_AutoDrive_Sort/releases/download/1.2.0/AutoDriveSort.exe)
 
 Program is based on [.net framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework/net472).
 

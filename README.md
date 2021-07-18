@@ -13,6 +13,7 @@ So I created a small program that sorts the destinations alphabetically. Also ta
 
 or (new in v1.3.0)
 
+1. Save and close your game (no need to quit FS19).
 1. Create a shortcut to AutoDriveSort.exe, and add the savegame folder as an argument.  
    Something like this: D:\AutoDriveSort.exe "C:\Data\Documents\My Games\FarmingSimulator2019\savegame1"  
 1. Run it.

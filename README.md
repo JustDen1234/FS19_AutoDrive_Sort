@@ -7,11 +7,8 @@ So I created a small program that sorts the destinations alphabetically. Also ta
 
 ## Usage
 
-1. Save and close your game (no need to quit FS19).
-1. Copy the AutoDriveSort.exe into your savegame folder (mostly: C:\Users\[username]\Documents\My Games\FarmingSimulator2019\savegame[number]\).
-1. Run it.
-
 New in v1.4.0:
+---
 1. Create a shortcut to AutoDriveSort.exe, and add one of more of the arguments below:  
    -dir [savegame folder]
    -backups [number of backups to keep]  
@@ -23,11 +20,23 @@ New in v1.4.0:
 1. Save and close your game (no noeed to quit FS19).
 1. Run the shortcut.
 
+---
+
 Only in v1.3.0:
 1. Create a shortcut to AutoDriveSort.exe, and add the savegame folder as an argument.  
    Example: D:\AutoDriveSort.exe "C:\Data\Documents\My Games\FarmingSimulator2019\savegame1"  
 1. Save and close your game (no need to quit FS19).
 1. Run the shortcut.
+
+
+---
+OR
+
+1. Save and close your game (no need to quit FS19).
+1. Copy the AutoDriveSort.exe into your savegame folder (mostly: C:\Users\[username]\Documents\My Games\FarmingSimulator2019\savegame[number]\).
+1. Run it.
+
+
 
 
 ## How does it work?

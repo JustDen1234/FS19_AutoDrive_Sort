@@ -20,22 +20,21 @@ New in v1.4.0:
 1. Save and close your game (no noeed to quit FS19).
 1. Run the shortcut.
 
----
 
 Only in v1.3.0:
+---
 1. Create a shortcut to AutoDriveSort.exe, and add the savegame folder as an argument.  
    Example: D:\AutoDriveSort.exe "C:\Data\Documents\My Games\FarmingSimulator2019\savegame1"  
 1. Save and close your game (no need to quit FS19).
 1. Run the shortcut.
 
 
+OR:
 ---
-OR
 
 1. Save and close your game (no need to quit FS19).
 1. Copy the AutoDriveSort.exe into your savegame folder (mostly: C:\Users\[username]\Documents\My Games\FarmingSimulator2019\savegame[number]\).
 1. Run it.
-
 
 
 
@@ -53,7 +52,7 @@ OR
 
 ## Download
 
-[Latest version v1.3.0](https://github.com/JustDen1234/FS19_AutoDrive_Sort/releases/download/1.3.0/AutoDriveSort.exe)
+[Latest version v1.4.0](https://github.com/JustDen1234/FS19_AutoDrive_Sort/releases/download/1.4.0/AutoDriveSort.exe)
 
 [![Github All Releases](https://img.shields.io/github/downloads/JustDen1234/FS19_AutoDrive_Sort/total.svg)]()
 

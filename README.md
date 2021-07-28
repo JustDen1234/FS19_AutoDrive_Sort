@@ -1,4 +1,4 @@
-# FS19 AutoDrive Sort (v1.3.0)
+# FS19 AutoDrive Sort (v1.4.0)
 
 If you are playing FS19 and like to cycle thru the destinations with the keyboard, a button on a steering wheel or (as I do) with a PS4 controller, 
 you might noticed that AutoDrive cycles thru the destinations in the order you created them, not alphabetically.
@@ -11,12 +11,24 @@ So I created a small program that sorts the destinations alphabetically. Also ta
 1. Copy the AutoDriveSort.exe into your savegame folder (mostly: C:\Users\[username]\Documents\My Games\FarmingSimulator2019\savegame[number]\).
 1. Run it.
 
-or (new in v1.3.0)
+New in v1.4.0:
+1. Create a shortcut to AutoDriveSort.exe, and add one of more of the arguments below:  
+   -dir [savegame folder]
+   -backups [number of backups to keep]  
 
-1. Save and close your game (no need to quit FS19).
+   Examples:  
+     D:\AutoDriveSort.exe -dir "C:\Data\Documents\My Games\FarmingSimulator2019\savegame1"  
+     D:\AutoDriveSort.exe -dir "C:\Data\Documents\My Games\FarmingSimulator2019\savegame1"  -backups 2
+
+1. Save and close your game (no noeed to quit FS19).
+1. Run the shortcut.
+
+Only in v1.3.0:
 1. Create a shortcut to AutoDriveSort.exe, and add the savegame folder as an argument.  
-   Something like this: D:\AutoDriveSort.exe "C:\Data\Documents\My Games\FarmingSimulator2019\savegame1"  
-1. Run it.
+   Example: D:\AutoDriveSort.exe "C:\Data\Documents\My Games\FarmingSimulator2019\savegame1"  
+1. Save and close your game (no need to quit FS19).
+1. Run the shortcut.
+
 
 ## How does it work?
 

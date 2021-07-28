@@ -17,7 +17,7 @@ New in v1.4.0:
      D:\AutoDriveSort.exe -dir "C:\Data\Documents\My Games\FarmingSimulator2019\savegame1"  
      D:\AutoDriveSort.exe -dir "C:\Data\Documents\My Games\FarmingSimulator2019\savegame1"  -backups 2
 
-1. Save and close your game (no noeed to quit FS19).
+1. Save and close your game (no need to quit FS19).
 1. Run the shortcut.
 
 

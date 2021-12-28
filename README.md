@@ -1,3 +1,5 @@
+## NOTE: AutoDrive Sort for FS22 is out now: [FS22_AutoDrive_Sort](https://github.com/JustDen1234/FS22_AutoDrive_Sort)
+
 # FS19 AutoDrive Sort (v1.4.0)
 
 If you are playing FS19 and like to cycle thru the destinations with the keyboard, a button on a steering wheel or (as I do) with a PS4 controller, 
